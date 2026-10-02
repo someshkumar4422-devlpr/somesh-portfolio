@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 680" role="img" aria-labelledby="title desc">
+  <title id="title">Geometric profile illustration</title>
+  <desc id="desc">A warm abstract portrait with coral, green, and cream shapes.</desc>
+  <rect width="640" height="680" fill="#e6a27d"/>
+  <path d="M0 480 190 337l176 174 176-238 98 115v292H0Z" fill="#d8795f"/>
+  <path d="m0 564 207-121 146 121 141-122 146 84v154H0Z" fill="#26332c"/>
+  <circle cx="483" cy="128" r="78" fill="#d5ee74"/>
+  <path d="M128 680c8-131 80-207 192-207s184 76 192 207Z" fill="#29382f"/>
+  <path d="M218 291c0-104 43-165 113-165s113 61 113 165v83c0 80-50 137-113 137s-113-57-113-137Z" fill="#bd7556"/>
+  <path d="M207 295c-15-114 33-207 130-207 69 0 115 39 124 112-37-7-62-32-74-66-37 49-100 73-180 72Z" fill="#202923"/>
+  <path d="M223 290c24-4 43-3 58 5m91 0c15-8 34-9 58-5" fill="none" stroke="#202923" stroke-linecap="round" stroke-width="8"/>
+  <path d="M294 392c20 15 44 15 64 0" fill="none" stroke="#743f34" stroke-linecap="round" stroke-width="7"/>
+  <path d="M320 303v55" fill="none" stroke="#975a45" stroke-linecap="round" stroke-width="7"/>
+  <path d="m232 488 88 92 88-92" fill="#f0e8d7"/>
+  <path d="m281 532 39 48-50 100h-92l22-111Z" fill="#d5ee74"/>
+  <path d="m359 532-39 48 50 100h92l-22-111Z" fill="#f08b6c"/>
+  <path d="M320 580v100" stroke="#25332c" stroke-width="5"/>
+  <path d="M48 66h84M48 82h52M524 516h73M553 532h44" fill="none" stroke="#26332c" stroke-width="4"/>
+</svg>
